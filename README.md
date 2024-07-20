@@ -14,7 +14,7 @@ In healthcare, accurately classifying medical images is vital, but conventional 
 ## Visualization
 The hyperplanes, point clouds along with the original image for various strategies are shown below:
 <div align="center">
-  <img src="images/Visual3.jpg" width="400px" />
+  <img src="images/Visual3.JPG" width="400px" />
 </div>
 For further clarity and help in visualization, we have provided an example image, it's mesh and it's corresponding point cloud generated from two different views.
 
