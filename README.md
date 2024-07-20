@@ -1,10 +1,11 @@
 # Transcending Grids: Point Clouds and Surface Representations Powering Neurological Processing
 This repository contains the code for the paper
+
 **[[2305.15426] Transcending Grids: Point Clouds and Surface Representations Powering Neurological Processing][1]**  
 [Vivek Narayan Uppala][vu], [Nampalle Kishore Babu][nkb], [Pradeep Singh][ps], Sumit Gangwar, Rajesh Singh Negi, [Balasubramanian Raman][br] 
 
 <div align="center">
-  <img src="images/overall_archi.png" width="500px" />
+  <img src="images/overall_archi.png" width="1000px" />
 </div>
 
 ## Installation
