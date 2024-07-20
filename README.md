@@ -21,7 +21,7 @@ For further clarity and help in visualization, we have provided an example image
 <div align="center">
   <img src="images/lung_normal.jpg" width="300px" />
 </div>
-The mesh can be checked out [here][link].
+The mesh can be checked out [here](https://sketchfab.com/3d-models/your-mesh-d0020c78213a415c90660398b2fdd69f)
 View of point cloud from 80 degrees:
 <img src="images/point_cloud.gif" alt="ints" width="400"/>
 Side view of point cloud:
@@ -60,5 +60,4 @@ If you find our work useful in your research, please cite:
 [vu]: https://scholar.google.com/citations?user=x-eWnIoAAAAJ
 [nkb]: https://scholar.google.com/citations?hl=en&user=VUdmmBAAAAAJ
 [ps]: https://scholar.google.com/citations?hl=en&user=aX8yaSQAAAAJ
-[br]: https://scholar.google.com/citations?hl=en&user=QU2O6JMAAAAJ 
-[link]: https://sketchfab.com/3d-models/your-mesh-d0020c78213a415c90660398b2fdd69f
+[br]: https://scholar.google.com/citations?hl=en&user=QU2O6JMAAAAJ
