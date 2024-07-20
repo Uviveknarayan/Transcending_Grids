@@ -25,8 +25,11 @@ For further clarity and help in visualization, we have provided an example image
 The mesh can be checked out [here](https://sketchfab.com/3d-models/your-mesh-d0020c78213a415c90660398b2fdd69f)
 
 View of point cloud from 80 degrees:
+
 <img src="images/point_cloud.gif" alt="ints" width="400"/>
+
 Side view of point cloud:
+
 <img src="images/point_cloud_animation.gif" alt="matching points" width="400"/>
 
 ## Installation
