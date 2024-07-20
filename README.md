@@ -19,11 +19,11 @@ The hyperplanes, point clouds along with the original image for various strategi
 For further clarity and help in visualization, we have provided an example image, it's mesh and it's corresponding point cloud generated from two different views.
 
 <div align="center">
-  <img src="images/lung_normal.png" width="1000px" />
+  <img src="images/lung_normal.jpg" width="1000px" />
 </div>
-The mesh can be checked out [here](https://sketchfab.com/3d-models/your-mesh-d0020c78213a415c90660398b2fdd69f).
+The mesh can be checked out [here][https://sketchfab.com/3d-models/your-mesh-d0020c78213a415c90660398b2fdd69f].
 View of point cloud from 80 degrees:
-<img src="images/point_cloud.gif" alt="matching points" width="400"/>
+<img src="images/point_cloud.gif" alt="ints" width="400"/>
 Side view of point cloud:
 <img src="images/point_cloud_animation.gif" alt="matching points" width="400"/>
 
