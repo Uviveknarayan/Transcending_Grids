@@ -1,4 +1,5 @@
 <a href="https://colab.research.google.com/drive/1iR03uYaMcCRPxGBtxJUVTAUukuV3-Y-L#scrollTo=_VKxu4vnTTqo" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
 # Transcending Grids: Point Clouds and Surface Representations Powering Neurological Processing
 This repository contains the code for the paper
 
